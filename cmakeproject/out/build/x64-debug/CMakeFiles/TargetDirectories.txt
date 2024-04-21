@@ -1,0 +1,17 @@
+C:/Users/user/Documents/myCppCode/cmakeproject/out/build/x64-debug/CMakeFiles/edit_cache.dir
+C:/Users/user/Documents/myCppCode/cmakeproject/out/build/x64-debug/CMakeFiles/rebuild_cache.dir
+C:/Users/user/Documents/myCppCode/cmakeproject/out/build/x64-debug/example1/CMakeFiles/example1.dir
+C:/Users/user/Documents/myCppCode/cmakeproject/out/build/x64-debug/example1/CMakeFiles/edit_cache.dir
+C:/Users/user/Documents/myCppCode/cmakeproject/out/build/x64-debug/example1/CMakeFiles/rebuild_cache.dir
+C:/Users/user/Documents/myCppCode/cmakeproject/out/build/x64-debug/example2/CMakeFiles/example2.dir
+C:/Users/user/Documents/myCppCode/cmakeproject/out/build/x64-debug/example2/CMakeFiles/edit_cache.dir
+C:/Users/user/Documents/myCppCode/cmakeproject/out/build/x64-debug/example2/CMakeFiles/rebuild_cache.dir
+C:/Users/user/Documents/myCppCode/cmakeproject/out/build/x64-debug/example3/CMakeFiles/example3.dir
+C:/Users/user/Documents/myCppCode/cmakeproject/out/build/x64-debug/example3/CMakeFiles/edit_cache.dir
+C:/Users/user/Documents/myCppCode/cmakeproject/out/build/x64-debug/example3/CMakeFiles/rebuild_cache.dir
+C:/Users/user/Documents/myCppCode/cmakeproject/out/build/x64-debug/example4/CMakeFiles/example4.dir
+C:/Users/user/Documents/myCppCode/cmakeproject/out/build/x64-debug/example4/CMakeFiles/edit_cache.dir
+C:/Users/user/Documents/myCppCode/cmakeproject/out/build/x64-debug/example4/CMakeFiles/rebuild_cache.dir
+C:/Users/user/Documents/myCppCode/cmakeproject/out/build/x64-debug/example5/CMakeFiles/example5.dir
+C:/Users/user/Documents/myCppCode/cmakeproject/out/build/x64-debug/example5/CMakeFiles/edit_cache.dir
+C:/Users/user/Documents/myCppCode/cmakeproject/out/build/x64-debug/example5/CMakeFiles/rebuild_cache.dir

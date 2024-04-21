@@ -1,0 +1,14 @@
+# ninja log v5
+1359	1605	7353938574960114	example1/example1.exe	b9dc11c5a8e548f9
+5	1359	7353938572814094	example1/CMakeFiles/example1.dir/example1.cpp.obj	e8e5f79b88b35340
+888	1054	7353989203943784	example2/example2.exe	6bbdadf27d9c5815
+15	887	7353989202573454	example2/CMakeFiles/example2.dir/example2.cpp.obj	e3704c7b147ab132
+19	731	7353989665966208	build.ninja	66e46e90939f67ee
+16	909	7353987726692254	example3/CMakeFiles/example3.dir/example3.cpp.obj	f2a7e2b344483a39
+910	1092	7353987728172568	example3/example3.exe	9e025b0b8a523c68
+26	918	7353987726722262	example4/CMakeFiles/example4.dir/example4.cpp.obj	1e3d68c385865d64
+918	1094	7353987728222588	example4/example4.exe	89ff464a4df6b06c
+15	894	7353983413217744	example5/CMakeFiles/example5.dir/example5.cpp.obj	3c35736035c67eb2
+895	1071	7353983414628055	example5/example5.exe	c76bc31ec961a2d9
+15	861	7353990271111120	example1/CMakeFiles/example1.dir/example1.cpp.obj	e8e5f79b88b35340
+861	1028	7353990272441401	example1/example1.exe	b9dc11c5a8e548f9
